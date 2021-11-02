@@ -1,0 +1,15 @@
+{
+  "dataStudio": {
+    "name": "Cookiebot - Consents (Unofficial)",
+    "logoUrl": "https://ps.w.org/cookiebot/assets/icon-256x256.png?rev=1840728",
+    "company": "",
+    "companyUrl": "",
+    "addonUrl": "",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Get Cookiebot Consent metrics",
+    "sources": [
+      "cookiebot"
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
